@@ -4,7 +4,7 @@
 title: 기록하자
 description: back-end 개발자, spring boot 위주. 가끔 flutter도 합니다. 
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "https://y00s22.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
@@ -59,9 +59,9 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  # Resume: /assets/resume.pdf
   
 
 # Add links for more focus here
 special_links:
-  "Search": https://duckduckgo.com
+  # "Search": https://duckduckgo.com
